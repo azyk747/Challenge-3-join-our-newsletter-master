@@ -1,4 +1,4 @@
-<h1 align="center">{Join Our Newsletter} | devChallenges</h1>
+<h1 align="center">Join Our Newsletter | devChallenges</h1>
 
 ![Thumbnail for the Join Our Newsletter coding challenge](./thumbnail.jpg)
 
@@ -9,11 +9,11 @@
 
 <div align="center">
   <h3>
-    <a href="{https://challenge-3-join-our-newsletter-maste.netlify.app/}">
+    <a href="https://challenge-3-join-our-newsletter-maste.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://devchallenges.io/solution/49734}">
+    <a href="https://devchallenges.io/solution/49734">
       Solution
     </a>
     <span> | </span>
